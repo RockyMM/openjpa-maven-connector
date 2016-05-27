@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+
+	<description url="https://rockymm.github.io/openjpa-maven-connector/">
+    	OpenJPA m2e Connector Update Site
+   	</description>
+
    <feature url="features/com.googlecode.m2e.connectors.openjpa.feature_1.2.0.20130315.jar" id="com.googlecode.m2e.connectors.openjpa.feature" version="1.2.0.20130315">
       <category name="m2e-connectors"/>
    </feature>
